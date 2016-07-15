@@ -1,0 +1,25 @@
+{
+  "name": "stimpak-npm",
+  "version": "0.0.1",
+  "description": "Stimpak generator for creating and maintaining package.json files",
+  "main": "lib/generator.js",
+  "keywords": [
+    "stimpak"
+  ],
+  "license": "MIT",
+  "author": "dcrockwell",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeAllMedia/stimpak-npm"
+  },
+  "bugs": {
+    "url": "https://github.com/FreeAllMedia/stimpak-npm/issues"
+  },
+  "homepage": "https://github.com/FreeAllMedia/stimpak-npm#readme",
+  "dependencies": {
+    "stimpak-git": "0.0.5",
+    "stimpak-github": "0.0.4",
+    "stimpak-project": "0.0.1"
+  },
+  "devDependencies": {}
+}
