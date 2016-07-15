@@ -1,0 +1,12 @@
+{
+	"repository": {
+		"type": "git",
+		"url": "<%= repositoryUrl %>"
+	},
+	"bugs": {
+		"url": "<%= bugtrackerUrl %>"
+	},
+	"homepage": "<%= homepageUrl %>",
+	"dependencies": {},
+	"devDependencies": {}
+}
