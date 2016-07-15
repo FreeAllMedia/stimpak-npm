@@ -1,6 +1,6 @@
 {
   "name": "stimpak-npm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stimpak generator for creating and maintaining package.json files",
   "main": "lib/generator.js",
   "keywords": [
